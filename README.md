@@ -1,1 +1,1 @@
-# ruby-enumerable
+# Enumerable in Ruby
