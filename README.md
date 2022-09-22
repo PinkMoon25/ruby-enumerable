@@ -30,8 +30,6 @@ git clone https://github.com/PinkMoon25/ruby-enumerable.git
 
 For anyone that whats to learn ruby
 
-```
-
 
 ## Authors
 
